@@ -13,10 +13,12 @@ authors:
 repository-code: 'https://github.com/OnroerendErfgoed/scriptorium'
 abstract: >-
   Scriptorium contains teaching materials (notebooks
-  and examples scripts) about Agentschap Onroerend
-  Erfgoed services and data
+  and example scripts) about Agentschap Onroerend
+  Erfgoed services and data. They aim to teach anyone with some basic
+  Python knowledge how to connect to these services and retrieve the data
+  they're looking for.
 keywords:
-  - python
+  - Python
   - REST
   - JSON
   - Onroerend erfgoed
