@@ -1,4 +1,7 @@
 # scriptorium
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5831137.svg)](https://doi.org/10.5281/zenodo.5831137)
+
 This repository contains teaching materials about 
 [Agentschap Onroerend Erfgoed](https://www.onroerenderfgoed.be) services and 
 data. These consist of [Google Colab](https://colab.research.google.com/) 

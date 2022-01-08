@@ -11,6 +11,7 @@ authors:
     affiliation: Agentschap Onroerend Erfgoed
     orcid: 'https://orcid.org/0000-0002-8153-2978'
 repository-code: 'https://github.com/OnroerendErfgoed/scriptorium'
+doi: 10.5281/zenodo.5831138
 abstract: >-
   Scriptorium contains teaching materials (notebooks
   and example scripts) about Agentschap Onroerend
