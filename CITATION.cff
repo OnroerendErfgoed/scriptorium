@@ -24,6 +24,18 @@ keywords:
   - JSON
   - Onroerend erfgoed
   - Inventaris
+references:
+  - doi: 10.5281/zenodo.5837177
+    type: slides
+    title: Flanders Heritage Services & Data
+    authors:
+      - given-names: Koen
+        family-names: Van Daele
+        email: koen.vandaele@vlaanderen.be
+        affiliation: Flanders Heritage Agency
+        orcid: 'https://orcid.org/0000-0002-8153-2978'
+    version: 1.0.0
+    date-published: "2022-11-02"
 license: CC-BY-4.0
 version: 1.0.0
 date-released: "2022-01-08"
